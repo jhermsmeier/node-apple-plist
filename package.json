@@ -1,0 +1,38 @@
+{
+  "name": "apple-plist",
+  "version": "0.0.0",
+  "description": "Apple Property List (plist) parsing & serializing",
+  "license": "MIT",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "keywords": [
+    "plist",
+    "bplist",
+    "propertylist",
+    "property",
+    "list",
+    "apple"
+  ],
+  "main": "lib/plist.js",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "benchmark": "node benchmark/index.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "htmlparser2": "^3.9.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "nanobench": "^2.1.1"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-apple-plist",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/node-apple-plist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-apple-plist/issues"
+  }
+}
