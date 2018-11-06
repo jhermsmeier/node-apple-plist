@@ -23,7 +23,7 @@ bench( `plist.parseBinary() ⨉ ${ITERATIONS}`, function( run ) {
 bench( `plist.parseXML() ⨉ ${ITERATIONS}`, function( run ) {
 
   var plist = new Plist()
-  var buffer = fs.readFileSync( path.join( __dirname, '..', 'test', 'data', 'xml', 'defaults.plist' ) )
+  var buffer = fs.readFileSync( path.join( __dirname, '..', 'test', 'data', 'xml', 'defaults.plist' ), 'utf8' )
 
   run.start()
 
