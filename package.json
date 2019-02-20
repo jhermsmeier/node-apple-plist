@@ -21,10 +21,10 @@
     "test": "mocha"
   },
   "dependencies": {
-    "htmlparser2": "^3.10.0"
+    "htmlparser2": "^3.10.1"
   },
   "devDependencies": {
-    "mocha": "^5.2.0",
+    "mocha": "^6.0.0",
     "nanobench": "^2.1.1"
   },
   "homepage": "https://github.com/jhermsmeier/node-apple-plist",
