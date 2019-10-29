@@ -21,7 +21,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "htmlparser2": "^3.10.1"
+    "htmlparser2": "^4.0.0"
   },
   "devDependencies": {
     "mocha": "^6.1.4",
