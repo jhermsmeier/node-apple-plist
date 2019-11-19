@@ -1,8 +1,8 @@
 # Apple Property List (plist)
-[![npm](https://img.shields.io/npm/v/apple-plist.svg?style=flat-square)](https://npmjs.com/package/apple-plist)
-[![npm license](https://img.shields.io/npm/l/apple-plist.svg?style=flat-square)](https://npmjs.com/package/apple-plist)
-[![npm downloads](https://img.shields.io/npm/dm/apple-plist.svg?style=flat-square)](https://npmjs.com/package/apple-plist)
-[![build status](https://img.shields.io/travis//node-apple-plist/master.svg?style=flat-square)](https://travis-ci.org//node-apple-plist)
+[![npm](https://flat.badgen.net/npm/v/apple-plist.svg)](https://npmjs.com/package/apple-plist)
+[![npm license](https://flat.badgen.net/npm/license/apple-plist.svg)](https://npmjs.com/package/apple-plist)
+[![npm downloads](https://flat.badgen.net/npm/dm/apple-plist.svg)](https://npmjs.com/package/apple-plist)
+[![build status](https://flat.badgen.net/travis/jhermsmeier/node-apple-plist/master.svg)](https://travis-ci.org/jhermsmeier/node-apple-plist)
 
 Apple Property List (plist) parsing & serializing of XML / Binary / JSON formats
 
