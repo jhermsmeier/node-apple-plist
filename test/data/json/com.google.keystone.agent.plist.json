@@ -1,0 +1,13 @@
+{
+  "Label": "com.google.keystone.user.agent",
+  "LimitLoadToSessionType": "Aqua",
+  "ProgramArguments": [
+    "/Users/<username>/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/Resources/GoogleSoftwareUpdateAgent.app/Contents/MacOS/GoogleSoftwareUpdateAgent",
+    "-runMode",
+    "ifneeded"
+  ],
+  "RunAtLoad": true,
+  "StandardErrorPath": "/dev/null",
+  "StandardOutPath": "/dev/null",
+  "StartInterval": 3623
+}

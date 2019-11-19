@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>32</key>
+	<dict>
+		<key>+</key>
+		<integer>4294967296</integer>
+		<key>+1</key>
+		<integer>4294967297</integer>
+		<key>-</key>
+		<integer>-4294967296</integer>
+		<key>-1</key>
+		<integer>4294967295</integer>
+	</dict>
+	<key>64</key>
+	<dict>
+		<key>+</key>
+		<real>1.8446744073709552e+19</real>
+		<key>+1</key>
+		<real>1.8446744073709552e+19</real>
+		<key>-</key>
+		<real>-1.8446744073709552e+19</real>
+		<key>-1</key>
+		<integer>18446744073709551615</integer>
+	</dict>
+	<key>EmptyData</key>
+	<data>
+	</data>
+	<key>Now</key>
+	<date>2018-10-08T17:39:25Z</date>
+</dict>
+</plist>
