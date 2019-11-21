@@ -30,6 +30,9 @@ _class_ **Plist**
     - .parse( **value:** `String` | `Buffer`, **offset:** `Number = 0` ) -> `Plist`
     - .fromJSON( **value:** `String` | `Buffer` | `Object` ) -> `Plist`
 
+- **Instance Properties:**
+    - .data -> `Object`
+
 - **Instance Methods:**
     - .parse( **value:** `String` | `Buffer`, **offset:** `Number = 0` ) -> `Plist`
     - .parseXML( **value:** `String` | `Buffer`, **offset:** `Number = 0` ) -> `Plist`
