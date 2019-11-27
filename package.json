@@ -14,7 +14,7 @@
   ],
   "main": "lib/plist.js",
   "engines": {
-    "node": ">=12.0.0"
+    "node": ">=10.4.0"
   },
   "scripts": {
     "benchmark": "node benchmark/index.js",
