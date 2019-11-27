@@ -1,16 +1,19 @@
 {
   "name": "apple-plist",
   "version": "0.3.0",
-  "description": "Apple Property List (plist) parsing & serializing",
-  "license": "MIT",
+  "description": "Apple Property List (plist) parsing & serializing of XML / Binary / JSON formats",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
+  "license": "MIT",
   "keywords": [
     "plist",
     "bplist",
     "propertylist",
     "property",
     "list",
-    "apple"
+    "apple",
+    "xml",
+    "binary",
+    "json"
   ],
   "main": "lib/plist.js",
   "engines": {
