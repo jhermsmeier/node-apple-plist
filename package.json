@@ -21,13 +21,13 @@
   },
   "scripts": {
     "benchmark": "node benchmark/index.js",
-    "test": "mocha"
+    "test": "control test"
   },
   "dependencies": {
     "htmlparser2": "^4.1.0"
   },
   "devDependencies": {
-    "mocha": "^7.1.2",
+    "@jhermsmeier/control": "^1.0.0",
     "nanobench": "^2.1.1"
   },
   "homepage": "https://github.com/jhermsmeier/node-apple-plist",
