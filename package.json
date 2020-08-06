@@ -24,7 +24,7 @@
     "test": "control test"
   },
   "dependencies": {
-    "htmlparser2": "^4.1.0"
+    "sax": "^1.2.4"
   },
   "devDependencies": {
     "@jhermsmeier/control": "^1.0.0",
