@@ -27,7 +27,7 @@
     "sax": "^1.2.4"
   },
   "devDependencies": {
-    "mocha": "^7.1.2",
+    "mocha": "^8.1.1",
     "nanobench": "^2.1.1"
   },
   "homepage": "https://github.com/balena-io-modules/node-apple-plist",
