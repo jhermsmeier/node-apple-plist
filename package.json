@@ -1,5 +1,5 @@
 {
-  "name": "apple-plist",
+  "name": "@balena/apple-plist",
   "version": "0.3.0",
   "description": "Apple Property List (plist) parsing & serializing of XML / Binary / JSON formats",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
@@ -30,12 +30,12 @@
     "@jhermsmeier/control": "^1.0.0",
     "nanobench": "^2.1.1"
   },
-  "homepage": "https://github.com/jhermsmeier/node-apple-plist",
+  "homepage": "https://github.com/balena-io-modules/node-apple-plist",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhermsmeier/node-apple-plist.git"
+    "url": "https://github.com/balena-io-modules/node-apple-plist.git"
   },
   "bugs": {
-    "url": "https://github.com/jhermsmeier/node-apple-plist/issues"
+    "url": "https://github.com/balena-io-modules/node-apple-plist/issues"
   }
 }
