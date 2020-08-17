@@ -21,13 +21,13 @@
   },
   "scripts": {
     "benchmark": "node benchmark/index.js",
-    "test": "control test"
+    "test": "mocha"
   },
   "dependencies": {
     "sax": "^1.2.4"
   },
   "devDependencies": {
-    "@jhermsmeier/control": "^1.0.0",
+    "mocha": "^7.1.2",
     "nanobench": "^2.1.1"
   },
   "homepage": "https://github.com/balena-io-modules/node-apple-plist",
