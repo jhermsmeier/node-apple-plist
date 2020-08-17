@@ -2,7 +2,7 @@
 [![npm](https://flat.badgen.net/npm/v/apple-plist)](https://npmjs.com/package/apple-plist)
 [![npm license](https://flat.badgen.net/npm/license/apple-plist)](https://npmjs.com/package/apple-plist)
 [![npm downloads](https://flat.badgen.net/npm/dm/apple-plist)](https://npmjs.com/package/apple-plist)
-[![build status](https://flat.badgen.net/travis/jhermsmeier/node-apple-plist/master)](https://travis-ci.org/jhermsmeier/node-apple-plist)
+[![build status](https://flat.badgen.net/travis/balena-io-modules/node-apple-plist/master)](https://travis-ci.org/balena-io-modules/node-apple-plist)
 
 Apple Property List (plist) parsing & serializing of XML / Binary / JSON formats
 
