@@ -1,6 +1,6 @@
 {
   "name": "@balena/apple-plist",
-  "version": "0.3.0",
+  "version": "0.0.2",
   "description": "Apple Property List (plist) parsing & serializing of XML / Binary / JSON formats",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de)",
   "license": "MIT",
